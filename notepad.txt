@@ -1,0 +1,47 @@
+
+acknolegment  = 4
+abstraction	= 5
+List of figure	 = 6
+list of tabel = 7
+
+chapter-1 = 11
+chapter-2 =16
+chapter-3 =18
+chapter-4 =19
+chapter-5 =20
+chapter-6 =24
+chapter-7 =30
+chapter-8 =38
+chapter-9 =44
+conclusion = 54
+references = 55
+report documentation = 57 
+
+system architecture = 30
+data flow diagram  27
+flowchrt        27
+use case diagram 25
+class diagram    24
+activity diagram  26
+sequence diagram   27
+state diagram     28
+er diagram   		29
+algorithm graph	48
+gui screen           44
+code editor ss frontend 46
+code editor ss backend   47
+
+list of tabels
+
+
+Features of Dataset  = 12
+
+ Average Daily Crop Water Needs As Compared To Standard Grass = 38
+
+Average Daily Water Need Of Standard Grass = 36
+
+Selected Crop water Requirements based on soil , depth and temperature =  13
+
+Performance evaluation of the Algorithms = 37
+
+
